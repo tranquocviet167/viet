@@ -1,0 +1,14 @@
+E:\C#HocLai\kiemtra\kiemtra\bin\Debug\kiemtra.exe.config
+E:\C#HocLai\kiemtra\kiemtra\bin\Debug\kiemtra.exe
+E:\C#HocLai\kiemtra\kiemtra\bin\Debug\kiemtra.pdb
+E:\C#HocLai\kiemtra\kiemtra\obj\Debug\kiemtra.csproj.AssemblyReference.cache
+E:\C#HocLai\kiemtra\kiemtra\obj\Debug\kiemtra.Form1.resources
+E:\C#HocLai\kiemtra\kiemtra\obj\Debug\kiemtra.Properties.Resources.resources
+E:\C#HocLai\kiemtra\kiemtra\obj\Debug\kiemtra.csproj.GenerateResource.cache
+E:\C#HocLai\kiemtra\kiemtra\obj\Debug\kiemtra.csproj.CoreCompileInputs.cache
+E:\C#HocLai\kiemtra\kiemtra\obj\Debug\kiemtra.exe
+E:\C#HocLai\kiemtra\kiemtra\obj\Debug\kiemtra.pdb
+E:\C#HocLai\kiemtra\kiemtra\obj\Debug\kiemtra.Form2.resources
+E:\C#HocLai\kiemtra\kiemtra\bin\Debug\System.Data.SqlClient.dll
+E:\C#HocLai\kiemtra\kiemtra\bin\Debug\System.Data.SqlClient.xml
+E:\C#HocLai\kiemtra\kiemtra\obj\Debug\kiemtra.csproj.Up2Date
